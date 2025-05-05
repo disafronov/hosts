@@ -34,3 +34,11 @@
 0.0.0.0 mouseflow.com
 0.0.0.0 tools.mouseflow.com
 0.0.0.0 cdn-test.mouseflow.com
+0.0.0.0 luckyorange.com
+0.0.0.0 api.luckyorange.com
+0.0.0.0 realtime.luckyorange.com
+0.0.0.0 cdn.luckyorange.com
+0.0.0.0 w1.luckyorange.com
+0.0.0.0 upload.luckyorange.net
+0.0.0.0 cs.luckyorange.net
+0.0.0.0 settings.luckyorange.net
