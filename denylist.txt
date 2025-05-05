@@ -45,3 +45,8 @@
 0.0.0.0 adm.hotjar.com
 0.0.0.0 identify.hotjar.com
 0.0.0.0 surveys.hotjar.com
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 api.bugsnag.com
+0.0.0.0 app.bugsnag.com
+0.0.0.0 browser.sentry-cdn.com
