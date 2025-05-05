@@ -63,3 +63,17 @@
 0.0.0.0 widgets.pinterest.com
 0.0.0.0 advertising.yandex.ru
 0.0.0.0 advertising.apple.com
+0.0.0.0 ads.google.com
+0.0.0.0 media.fastclick.net
+0.0.0.0 affiliationjs.s3.amazonaws.com
+0.0.0.0 hotjar-analytics.com
+0.0.0.0 ads-dev.pinterest.com
+0.0.0.0 rereddit.com
+0.0.0.0 appmetrica.yandex.com
+0.0.0.0 yandexadexchange.net
+0.0.0.0 metrics1.data.hicloud.com
+0.0.0.0 metrics5.data.hicloud.com
+0.0.0.0 metrics-dra.dt.hicloud.com
+0.0.0.0 open.oneplus.net
+0.0.0.0 business.samsungusa.com
+0.0.0.0 supportmetrics.apple.com
