@@ -30,5 +30,7 @@
 0.0.0.0 metrika.yandex.ru
 0.0.0.0 bdapi-ads.realmemobile.com
 0.0.0.0 metrics.data.hicloud.com
-
-
+0.0.0.0 afs.googlesyndication.com
+0.0.0.0 mouseflow.com
+0.0.0.0 tools.mouseflow.com
+0.0.0.0 cdn-test.mouseflow.com
