@@ -59,3 +59,7 @@
 0.0.0.0 logservice1.hicloud.com
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 analytics-api.samsunghealthcn.com
+0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 widgets.pinterest.com
+0.0.0.0 advertising.yandex.ru
+0.0.0.0 advertising.apple.com
