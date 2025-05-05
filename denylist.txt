@@ -42,3 +42,6 @@
 0.0.0.0 upload.luckyorange.net
 0.0.0.0 cs.luckyorange.net
 0.0.0.0 settings.luckyorange.net
+0.0.0.0 adm.hotjar.com
+0.0.0.0 identify.hotjar.com
+0.0.0.0 surveys.hotjar.com
