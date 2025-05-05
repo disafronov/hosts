@@ -77,3 +77,5 @@
 0.0.0.0 open.oneplus.net
 0.0.0.0 business.samsungusa.com
 0.0.0.0 supportmetrics.apple.com
+0.0.0.0 careers.hotjar.com
+
