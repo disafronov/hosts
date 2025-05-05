@@ -84,3 +84,4 @@
 0.0.0.0 ads.facebook.com
 0.0.0.0 advertising.twitter.com
 0.0.0.0 adsdk.yandex.ru
+0.0.0.0 hotjar.com
