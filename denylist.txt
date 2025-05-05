@@ -78,4 +78,9 @@
 0.0.0.0 business.samsungusa.com
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 careers.hotjar.com
-
+0.0.0.0 ads.reddit.com
+0.0.0.0 d.reddit.com
+0.0.0.0 analytics.facebook.com
+0.0.0.0 ads.facebook.com
+0.0.0.0 advertising.twitter.com
+0.0.0.0 adsdk.yandex.ru
